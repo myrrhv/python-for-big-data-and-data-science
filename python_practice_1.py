@@ -1,0 +1,1 @@
+print("Myroslava Valkovets, 7")
